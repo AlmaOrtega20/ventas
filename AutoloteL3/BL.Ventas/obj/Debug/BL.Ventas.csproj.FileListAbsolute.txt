@@ -1,0 +1,5 @@
+C:\Users\luise\OneDrive\Escritorio\Proyecto\ventas-main\AutoloteL3\AutoloteL3\BL.Ventas\bin\Debug\BL.Ventas.dll
+C:\Users\luise\OneDrive\Escritorio\Proyecto\ventas-main\AutoloteL3\AutoloteL3\BL.Ventas\bin\Debug\BL.Ventas.pdb
+C:\Users\luise\OneDrive\Escritorio\Proyecto\ventas-main\AutoloteL3\AutoloteL3\BL.Ventas\obj\Debug\BL.Ventas.csprojResolveAssemblyReference.cache
+C:\Users\luise\OneDrive\Escritorio\Proyecto\ventas-main\AutoloteL3\AutoloteL3\BL.Ventas\obj\Debug\BL.Ventas.dll
+C:\Users\luise\OneDrive\Escritorio\Proyecto\ventas-main\AutoloteL3\AutoloteL3\BL.Ventas\obj\Debug\BL.Ventas.pdb
