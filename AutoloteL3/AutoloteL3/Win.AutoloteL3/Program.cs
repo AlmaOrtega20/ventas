@@ -20,7 +20,7 @@ namespace Win.AutoloteL3
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new FormMenu());
         }
-        public static byte[] imagenToByArray(Image ImagenIn)
+        public static byte[] imagenToByteArray(Image ImagenIn)
         {
             var ms = new MemoryStream();
             ImagenIn.Save(ms, ImagenIn.RawFormat);

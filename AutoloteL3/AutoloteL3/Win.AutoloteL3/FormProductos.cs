@@ -39,11 +39,11 @@ namespace Win.AutoloteL3
 
             if (fotoPictureBox.Image != null) 
             {
-                producto.foto = Program.imagenToByArray(fotoPictureBox.Image);
+                producto.Foto = Program.imagenToByteArray(fotoPictureBox.Image);
             }
             else
             {
-                producto .foto =null;
+                producto.Foto = null;
             }
             var resultado = _productos.GuardarProducto(producto);
 
@@ -133,7 +133,7 @@ namespace Win.AutoloteL3
         {
             var producto = (Producto)listaProductosBindingSource.Current;
 
-            if (producto !=null)
+            if (producto != null)
             {
                 openFileDialog1.ShowDialog();
                 var archivo = openFileDialog1.FileName;
